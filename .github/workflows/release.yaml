@@ -6,7 +6,7 @@ on:
 permissions: write-all
 jobs:
   release:
-    runs-on: windoes-latest
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4
         with:

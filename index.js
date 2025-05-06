@@ -1,4 +1,4 @@
 module.exports=function hello()
 {
-    return "git hello world"
+    return "We are about to make the new release for GIT "
 }
